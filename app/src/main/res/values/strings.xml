@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GroceryCrudSampleApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_all_list">All List</string>
+</resources>
